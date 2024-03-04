@@ -7,7 +7,6 @@ namespace LogDemo
     {
         static void Main(string[] args)
         {
-            gi
             var calculator = new Calculator();
             Console.WriteLine($"5+3 = {calculator.Add(5, 3)}");
             Console.WriteLine($"The square root of 5 = {calculator.SquareRoot(5.0)}");
