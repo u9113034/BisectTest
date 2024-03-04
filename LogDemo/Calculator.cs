@@ -10,6 +10,10 @@
 		{
 			return x - y;
 		}
+		public double Multiply(double x,double y)
+		{
+			return x * y;
+		}
 	}
 
 }
