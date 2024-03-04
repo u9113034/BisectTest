@@ -1,5 +1,5 @@
 ﻿using System;
-using UtilityKnife
+using UtilityKnife;
 
 namespace LogDemo
 {
