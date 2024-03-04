@@ -22,6 +22,10 @@
 		{
 			return x / y;
 		}
+		public double SquareRoot(double x)
+		{
+			return Math.Sqrt(x);
+		}
 	}
 
 }
