@@ -9,7 +9,7 @@ namespace LogDemo
         {
             var calculator = new Calculator();
             Console.WriteLine($"5+3 = {calculator.Add(5, 3)}");
-            Console.WriteLine($"The square root of 3.14159 is {calculator.SquareRoot(3.14159)}");
+            Console.WriteLine($"5/3 = {calculator.Division(5 / 3)}");
         }
     }
 }
